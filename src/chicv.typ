@@ -63,6 +63,12 @@
   iconlink(uri, text: text, icon: "github")
 }
 
+#let awardlink(
+  uri, text: ""
+) = {
+  iconlink(uri, text: text, icon: "award")
+}
+
 #let dates(
   from: "", to: ""
 ) = {

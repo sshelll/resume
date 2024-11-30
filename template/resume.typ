@@ -55,20 +55,30 @@
   bl: [Golang Software Engineer Intern],
 )[
   Involved in the development of the ATS(Application Tracking System) of Lark.
-  - *Refactoring the Search System*. Reduced the query latency from 500ms+ to 100ms+.
-  - *Auth System*. Developed an ABAC + RBAC auth system to handle the complex permission requirements within the ATS.
-  - *MutiGeo Retrofit*. Participated in the retrofit of the system to support multi-geo deployment, which addressed the data sovereignty issues of the company.
+  - *Refactoring the Search System*. Reduced the query latency(from 500ms+ to 100ms+).
+  - *Auth System*. Developed an ABAC + RBAC auth system to handle the complex permission requirements(more than 100 different permissions in use) within the ATS.
+  - *MutiGeo Retrofit*. Participated in the retrofit of the system to support multi-geo(currently 2 geos) deployment, which addressed the data sovereignty issues of the company.
   - *Data Encryption*. Implemented the data encryption module to protect the sensitive data of the users in databases.
 ]
 
-== Open-Source Contributions
+== Misc
 
 #cventry(
   tl: [
-    *Telescope.nvim* #githublink("https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions", text: "nvim-telescope/telescope") _as maintainer for several extensions_
+    *Telescope.nvim* #githublink("https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions", text: "nvim-telescope/telescope") _as maintainer for several nvim extensions_
   ],
   tr: dates(from: "2023/07")
 )[]
+
+#cventry(
+  tl: [
+    *Codewars* #awardlink("https://www.codewars.com/users/sshelll", text: "sshelll | Codewars") _Online Developer Assessment Trusted by Facebook and Apple, etc_
+  ],
+  tr: dates(from: "2024/10")
+)[
+  - *Honor Percentile*: Top 3.286%
+  - *Rust*: 3 kyu
+]
 
 == Skills
 
