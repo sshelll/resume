@@ -32,7 +32,7 @@
 #cventry(
   tl: [#link("https://www.pionex.com/zh-TW/")[*Pionex Crypto Exchange*], Onsite],
   tr: dates(from: "2023/06", to: "2024/08"),
-  bl: [Senior Backend Engineer],
+  bl: [_Senior Backend Engineer_],
   padding: (bottom: -5pt)
 )[
   Developing and maintaining the trading system of Pionex, a crypto trading platform.
@@ -45,14 +45,14 @@
 #cventry(
   tl: [#link("https://www.feishu.cn/")[*Lark, Bytedance*], Onsite],
   tr: dates(from: "2021/07", to: "2023/06"),
-  bl: [Golang Software Engineer],
+  bl: [_Golang Software Engineer_],
   padding: (bottom: -5pt)
 )[]
 
 #cventry(
   tl: [_... and also_],
   tr: dates(from: "2020/06", to: "2021/06"),
-  bl: [Golang Software Engineer Intern],
+  bl: [_Golang Software Engineer Intern_],
 )[
   Involved in the development of the ATS(Application Tracking System) of Lark.
   - *Refactoring the Search System*. Reduced the query latency(from 500ms+ to 100ms+).
@@ -76,7 +76,7 @@
   ],
   tr: dates(from: "2024/10")
 )[
-  - *Honor Percentile*: Top 3.286%
+  - *Honor Percentile*: Top 2.235%
   - *Rust*: 3 kyu
 ]
 
