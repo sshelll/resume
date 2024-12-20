@@ -76,8 +76,9 @@
   ],
   tr: dates(from: "2024/10")
 )[
-  - *Honor Percentile*: Top 2.235%
+  - *Honor Percentile*: Top 1.530%
   - *Rust*: 3 kyu
+  - *Go*: 4 kyu
 ]
 
 == Skills
