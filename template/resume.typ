@@ -5,7 +5,7 @@
   par-padding: (left: 0pt, right: 0pt),
 )
 
-= Jiale Shao
+= Jiale Shao(Kayce)
 
 #personal-info(
   email: "shaojiale.gitignore@icloud.com",
@@ -72,7 +72,7 @@
 
 #cventry(
   tl: [
-    *Codewars* #awardlink("https://www.codewars.com/users/sshelll", text: "sshelll | Codewars") _Online Developer Assessment Trusted by Facebook and Apple, etc_
+    *Codewars* #awardlink("https://www.codewars.com/users/kayce.gitignore", text: "kayce.gitignore | Codewars") _Online Developer Assessment Built on Quolified_
   ],
   tr: dates(from: "2024/10")
 )[
