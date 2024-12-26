@@ -10,7 +10,7 @@
 #personal-info(
   email: "shaojiale.gitignore@icloud.com",
   github: "https://github.com/sshelll",
-  // website: "-",
+  website: "https://kayce.world/",
   // linkedin: "-",
   // x-twitter: "-",
   // (link: "https://typst.app/", text: "Typst", icon: "t", solid: true),
@@ -76,9 +76,10 @@
   ],
   tr: dates(from: "2024/10")
 )[
-  - *Honor Percentile*: Top 1.530%
-  - *Rust*: 3 kyu
-  - *Go*: 4 kyu
+  - *Honor Percentile*: Top 1.300%
+  - *Leaderboard Position*: \#8,876
+    - *Rust*: 3 kyu
+    - *Go*: 4 kyu
 ]
 
 == Skills
