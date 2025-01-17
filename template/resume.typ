@@ -24,7 +24,6 @@
   bl: "Bachelor of Engineering in Computer Science and Technology",
   br: "Chengdu, Sichuan, China"
 )[
-  - Courses: Operating Systems, Computer Architecture, Computer Networks, etc.
 ]
 
 == Work Experience
@@ -36,10 +35,11 @@
   padding: (bottom: -5pt)
 )[
   Developing and maintaining the trading system of Pionex, a crypto trading platform.
-  - *Rebate System*. Designed and implemented the rebate system to support the rebate of trading fees to users.
+  - *Rebate System*. Designed and implemented the rebate system to support the rebate of trading fees to users (10m trades per month).
   - *Virtual Account System*. Designed and implemented a system to reuse multiple trading accounts of external crypto exchanges to help reduce the cost of maintaining those accounts(10 -> 4).
   - *Index Price System*. Participated in the development of the index price system to provide the real-time (usually less than 2s) index price of the crypto assets with high availability.
-  - *Account Settlement*. Participated in the development of the account settlement system to provide a fast and high available account settlement service.
+  - *Account Settlement*. Participated in the development of the account settlement system to provide a high available / throughput account settlement service (DAU 100k).
+  - *Signature-based Access Control*. Participated in the development of the signature-based access control architecture for #underline("all") requests.
 ]
 
 #cventry(
