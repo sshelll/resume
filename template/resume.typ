@@ -76,7 +76,7 @@
   ],
   tr: dates(from: "2024/10")
 )[
-  - *Honor Percentile*: Top 0.754%%
+  - *Honor Percentile*: Top 0.754%
   - *Leaderboard Position*: \#5,205
     - *Rust*: 2 kyu
     - *Go*: 4 kyu
