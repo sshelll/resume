@@ -92,6 +92,6 @@
 == Skills
 
 - *Programming Languages*: Go (Since 2020), Rust and Java (Vertx)
-- *Tech Skills*: Kafka, PostgresSQL, MySQL, Redis, MongoDB, OpenResty, etc.
+- *Middlewares*: Kafka, PostgresSQL, MySQL, Redis, MongoDB, OpenResty, etc.
 
 #align(right, text(fill: gray)[Last Updated on #today()])
