@@ -29,6 +29,16 @@
 == Work Experience
 
 #cventry(
+  tl: [#link("https://www.archat.us/")[*Presence*], Onsite],
+  tr: dates(from: "2024/09", to: "now"),
+  bl: [_Senior Backend Engineer_],
+  padding: (bottom: -5pt)
+)[
+  Developing and maintaining all the backend services of Presence, a social media platform.
+  - *Architecture & Implementation*. Designed and implemented the overall technical architecture, ensuring scalable and efficient system solutions.
+]
+
+#cventry(
   tl: [#link("https://www.pionex.com/zh-TW/")[*Pionex Crypto Exchange*], Onsite],
   tr: dates(from: "2023/06", to: "2024/08"),
   bl: [_Senior Backend Engineer_],
@@ -58,7 +68,6 @@
   - *Refactoring the Search System*. Reduced the query latency(from 500ms+ to 100ms+).
   - *Auth System*. Developed an ABAC + RBAC auth system to handle the complex permission requirements(more than 100 different permissions in use) within the ATS.
   - *MutiGeo Retrofit*. Participated in the retrofit of the system to support multi-geo(currently 2 geos) deployment, which addressed the data sovereignty issues of the company.
-  - *Data Encryption*. Implemented the data encryption module to protect the sensitive data of the users in databases.
 ]
 
 == Misc
@@ -72,20 +81,17 @@
 
 #cventry(
   tl: [
-    *Codewars* #awardlink("https://www.codewars.com/users/kayce.gitignore", text: "kayce.gitignore | Codewars") _Online Developer Assessment Built on Quolified_
+    *Codewars* #awardlink("https://www.codewars.com/users/kayce.gitignore", text: "kayce.gitignore | Codewars")
   ],
   tr: dates(from: "2024/10")
 )[
-  - *Honor Percentile*: Top 0.754%
-  - *Leaderboard Position*: \#5,205
-    - *Rust*: 2 kyu
-    - *Go*: 4 kyu
+  - *Honor Percentile*: Top 0.733%, *Leaderboard Position*: \#5,073
+    - *Rust*: 2 kyu / *Go*: 4 kyu
 ]
 
 == Skills
 
 - *Programming Languages*: Go (Since 2020), Rust and Java (Vertx)
 - *Tech Skills*: Kafka, PostgresSQL, MySQL, Redis, MongoDB, OpenResty, etc.
-- *Tools*: NeoVim / Vim, Git, Docker, etc.
 
 #align(right, text(fill: gray)[Last Updated on #today()])
